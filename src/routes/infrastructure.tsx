@@ -115,9 +115,6 @@ function InfraPage() {
             </div>
           ))}
         </div>
-        <div className="container-x mt-12">
-          <img src={facadePhoto} alt="Facility exterior" className="w-full rounded-xl object-cover aspect-[21/9]" />
-        </div>
       </section>
     </>
   );
