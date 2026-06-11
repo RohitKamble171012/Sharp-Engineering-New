@@ -34,11 +34,11 @@ function ContactPage() {
       value: "Plot No. 12, Chhatrapati Shahu Co-operative Industrial Estate,\nAgar Bhag (Shirol), Jaysingpur – 416102,\nKolhapur, Maharashtra, India",
     },
     {
-      icon: Phone,
-      label: "Phone",
-      value: "+91 98501 51717\n+91 98508 57210",
-      href: "tel:+919850151717",
-    },
+  icon: Phone,
+  label: "Phone",
+  value: "+91 80100 31808\n+91 98501 51717\n+91 98508 57210",
+  href: "tel:+918010031808",
+},
     {
       icon: Mail,
       label: "Email",
